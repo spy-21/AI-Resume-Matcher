@@ -1,4 +1,4 @@
-venv/
+﻿venv/
 __pycache__/
 *.pyc
 .env
@@ -10,4 +10,3 @@ __pycache__/
 .idea/
 dist/
 build/
-PowerBI/
