@@ -1,54 +1,13 @@
-# --- Python ---
+venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.pkl
-*.log
-
-# --- Environment Files ---
 .env
-.env.*
-*.env
-
-# --- Virtual Environment ---
-venv/
-.venv/
-env/
-ENV/
-*virtualenv*/
-
-# --- Streamlit cache ---
-.streamlit/
-cache/
-**/__pycache__/
-
-# --- OS / Editor files ---
 .DS_Store
-Thumbs.db
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
 .vscode/
 .idea/
-
-# --- Power BI / PDF exports ---
-PowerBI/*.pdf
-*.pdf
-
-# --- Model files ---
-*.pt
-*.bin
-*.h5
-*.pkl
-*.joblib
-
-# --- Database backups ---
-*.sql
-*.db
-*.sqlite3
-
-# --- Jupyter ---
-.ipynb_checkpoints/
-
-# --- Misc ---
-*.bak
-*.tmp
-*.swp
+dist/
+build/
+PowerBI/
