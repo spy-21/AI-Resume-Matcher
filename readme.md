@@ -7,7 +7,7 @@ All analyzed data is stored in **MySQL**, and recruiter analytics are displayed 
 
 ## 🚀 Features
 
-- 📂 Upload and process multiple resumes (PDF)
+- 📂 Upload resumes (PDF)
 - 🧠 Extract candidate name, email, and technical skills
 - 🔎 Analyze job description automatically
 - 📊 Compute AI-based similarity score using **Sentence Transformers**
