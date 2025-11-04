@@ -273,4 +273,4 @@ with tab3:
         pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="800"></iframe>'
         st.markdown(pdf_display, unsafe_allow_html=True)
     else:
-        st.error("Dashboard PDF not found. Please add 'AI_Resume_Matcher_Dashboardsec.pdf' to your project folder.")
+        st.error("Dashboard PDF not found. Please add 'AI_Resume_Matcher_Dashboardsec.pdf' to your project folder.") 
