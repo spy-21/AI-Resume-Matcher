@@ -147,3 +147,21 @@ Then open your browser and go to:
 **Developed by:** [Katagoni Shiva Prasad](mailto:shivaprasad21072003@gmail.com)  
 📧 Email: [shivaprasad21072003@gmail.com](mailto:shivaprasad21072003@gmail.com)  
 💼 GitHub: [spy-21](https://github.com/spy-21)
+
+## Images
+
+## 📝 Resume Update Feature
+
+![Update Resume](Screenshots/update_Resume.png)
+
+![After Update Resume](Screenshots/After_Update_Resume.png)
+
+## 📊 Dashboard
+
+![Recruiter Dashboard](Screenshots/Recruiter_Dashboard.png)
+
+## 📈 Analytics
+
+![Candidates by Job Title](Screenshots/All_candidates_apply_by_job_title.png)
+
+![Power BI Dashboard](Screenshots/power_bi_basboard.png)
